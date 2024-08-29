@@ -26,10 +26,10 @@ Resources
 
 **Read or watch**:
 
--   [Node JS getting started](https://alx-intranet.hbtn.io/rltoken/kZHDWCu20EsKxKzi51yWeg "Node JS getting started")
--   [Process API doc](https://alx-intranet.hbtn.io/rltoken/uYPplj2cPK8pcP0LtV6RuA "Process API doc")
+-   [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs")
+-   [Process API doc](https://node.readthedocs.io/en/latest/api/process/")
 -   [Express getting started](https://alx-intranet.hbtn.io/rltoken/SujfeWKCWmUMomfETjETEg "Express getting started")
--   [Mocha documentation](https://alx-intranet.hbtn.io/rltoken/FzEwplmoZiyGvkgKllZNJw "Mocha documentation")
+-   [Mocha documentation](https://mochajs.org/")
 -   [Nodemon documentation](https://alx-intranet.hbtn.io/rltoken/pdNNTX0OLugbhxvP3sLgOw "Nodemon documentation")
 -   [MongoDB](https://alx-intranet.hbtn.io/rltoken/g1x7y_3GskzVAJBTXcSjmA "MongoDB")
 -   [Bull](https://alx-intranet.hbtn.io/rltoken/NkHBpGrxnd0sK_fDPMbihg "Bull")
