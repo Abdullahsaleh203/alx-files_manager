@@ -26,8 +26,8 @@ Resources
 
 **Read or watch**:
 
--   [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs")
--   [Process API doc](https://node.readthedocs.io/en/latest/api/process/")
+-   [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+-   [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
 -   [Express getting started](https://alx-intranet.hbtn.io/rltoken/SujfeWKCWmUMomfETjETEg "Express getting started")
 -   [Mocha documentation](https://mochajs.org/")
 -   [Nodemon documentation](https://alx-intranet.hbtn.io/rltoken/pdNNTX0OLugbhxvP3sLgOw "Nodemon documentation")
