@@ -29,7 +29,7 @@ Resources
 -   [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 -   [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
 -   [Express getting started](https://alx-intranet.hbtn.io/rltoken/SujfeWKCWmUMomfETjETEg "Express getting started")
--   [Mocha documentation](https://mochajs.org/")
+-   [Mocha documentation](https://mochajs.org/)
 -   [Nodemon documentation](https://alx-intranet.hbtn.io/rltoken/pdNNTX0OLugbhxvP3sLgOw "Nodemon documentation")
 -   [MongoDB](https://alx-intranet.hbtn.io/rltoken/g1x7y_3GskzVAJBTXcSjmA "MongoDB")
 -   [Bull](https://alx-intranet.hbtn.io/rltoken/NkHBpGrxnd0sK_fDPMbihg "Bull")
